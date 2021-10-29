@@ -13,4 +13,5 @@
   - [資料交換宣告](doc/資料交換宣告.md)
 - Release
   - [GIANT_platform](release/GIANT_platform_PDT_release_note.md)
+  - ABC
 
