@@ -14,4 +14,6 @@
 - Release
   - [GIANT_platform](release/GIANT_platform_PDT_release_note.md)
   - ABC
+  - 123
+  - 456
 
